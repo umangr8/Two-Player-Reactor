@@ -1,2 +1,1 @@
-# Two-Player-Reactor
-Its a game gives points on the basis of reaction time for recognizing images.
+Two Player Reactor is  a Java Swing based Game which uses concepts of GUI design and Multithreading.
